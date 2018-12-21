@@ -1,4 +1,5 @@
-List API Lain
+List API Lain:
+
 1. OpenWeatherMap
 webnya menyediakan data situasi cuaca saat ini perjam, bahkan sampai perminggu.
 Data yang didapat : 
@@ -10,4 +11,8 @@ e. Rain
 f. Sunrise
 g. Sunset
 h. Geo coords
-2.
+
+2. Daftar API Nasa 
+https://api.nasa.gov/
+
+3. 
